@@ -95,7 +95,21 @@ Hopefully this repo can serve as a source of inspiration for all the web develop
 - Web Developer - [Chrome](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en) - [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/web-developer)
 - Window Resizer - [Chrome](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) - [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/window-resizer-webextension/)
 
-## Time Management
+### Time Management
 
 - [WakaTime](https://wakatime.com/)
 - [RescueTime](https://www.rescuetime.com/)
+
+## Freelance Websites
+
+- [99Designs](https://99designs.ca/)
+- [Designhill](https://www.designhill.com/)
+- [Fiverr](https://www.fiverr.com)
+- [FlexJobs](https://www.flexjobs.com/)
+- [Freelancer](https://www.freelancer.ca/)
+- [Indeed](https://ca.indeed.com/)
+- [People Per Hour](https://www.peopleperhour.com/)
+- [Simply Hired](https://www.simplyhired.com/)
+- [Solidgigs](https://solidgigs.com/)
+- [Toptal](https://www.toptal.com/)
+- [Upwork](https://www.upwork.com/)
