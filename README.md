@@ -6,8 +6,6 @@ Hopefully this repo can serve as a source of inspiration for all the web develop
 
 ---
 
-## Basic
-
 ### HTML Templates
 
 - [bootstrapr.io](https://bootstrapr.io/)
@@ -68,8 +66,6 @@ Hopefully this repo can serve as a source of inspiration for all the web develop
 - [Videvo](https://www.videvo.net/)
 - [Vidsplay](https://www.vidsplay.com/)
 
-## Advance
-
 ### Chart libraries
 
 - [Canvas.js](https://canvasjs.com/)
@@ -100,7 +96,7 @@ Hopefully this repo can serve as a source of inspiration for all the web develop
 - [WakaTime](https://wakatime.com/)
 - [RescueTime](https://www.rescuetime.com/)
 
-## Freelance Websites
+### Freelance Websites
 
 - [99Designs](https://99designs.ca/)
 - [Designhill](https://www.designhill.com/)
@@ -113,3 +109,12 @@ Hopefully this repo can serve as a source of inspiration for all the web develop
 - [Solidgigs](https://solidgigs.com/)
 - [Toptal](https://www.toptal.com/)
 - [Upwork](https://www.upwork.com/)
+
+### Resume Builder Website
+
+- [rxresu.me](rxresu.me) 
+- [canva.com](canva.com)
+- [smallcv.com](smallcv.com)
+- [resume.com](resume.com)
+- [resumake.io](resumake.io)
+- [flowcv.io](flowcv.io)
