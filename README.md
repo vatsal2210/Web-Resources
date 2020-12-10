@@ -1,4 +1,4 @@
-# Web-Developer-Resources
+Web-Developer-Resources
 
 The resources are essential tools you'll use day in and day out as a web developer.
 
@@ -6,7 +6,25 @@ Hopefully this repo can serve as a source of inspiration for all the web develop
 
 ---
 
-### HTML Templates
+1. [Media Assets](#media-assets)
+   1. [HTML Templates](#html-templates)
+   2. [Icons for websites](#icons-forwebsites)
+   3. [Illustration for websites](#illustration-forwebsites)
+   4. [Stock photos](#stockphotos)
+   5. [Stock Video](#stockvideo)
+   6. [Chart libraries](#chart-libraries)
+2. [Developer Resources](#developer-resources)
+   1. [Extensions](#extensions)
+   2. [Time Management](#time-management)
+   3. [Freelance Websites](#freelance-websites)
+3. [Newbies](#newbies)
+   1. [Resume Builder Website](#resume-builder-website)
+
+---
+
+# Media Assets
+
+## HTML Templates
 
 - [bootstrapr.io](https://bootstrapr.io/)
 - [colorlib.com](https://colorlib.com/)
@@ -21,7 +39,7 @@ Hopefully this repo can serve as a source of inspiration for all the web develop
 - [uideck.com](https://uideck.com/)
 - [w3layouts.com](https://w3layouts.com/)
 
-### Icons for websites
+## Icons for websites
 
 - [css.gg](https://css.gg/)
 - [devicon.dev](https://devicon.dev/)
@@ -35,7 +53,7 @@ Hopefully this repo can serve as a source of inspiration for all the web develop
 - [tablericons.com](https://tablericons.com/)
 - [thenounproject.com](https://thenounproject.com/)
 
-### Illustration for websites
+## Illustration for websites
 
 - [absurd.design](https://absurd.design/)
 - [drawkit.io](https://www.drawkit.io/)
@@ -44,7 +62,7 @@ Hopefully this repo can serve as a source of inspiration for all the web develop
 - [opendoodles.com](https://www.opendoodles.com/)
 - [undraw.co](https://undraw.co/illustrations)
 
-### Stock photos
+## Stock photos
 
 - [Gratisography](https://gratisography.com/)
 - [Morguefile](https://morguefile.com/)
@@ -57,7 +75,7 @@ Hopefully this repo can serve as a source of inspiration for all the web develop
 - [Stockvault](https://www.stockvault.net/)
 - [Unsplash](https://unsplash.com/)
 
-### Stock Video
+## Stock Video
 
 - [Coverr](https://coverr.co/)
 - [Mazwai](https://mazwai.com/)
@@ -66,7 +84,7 @@ Hopefully this repo can serve as a source of inspiration for all the web develop
 - [Videvo](https://www.videvo.net/)
 - [Vidsplay](https://www.vidsplay.com/)
 
-### Chart libraries
+## Chart libraries
 
 - [Canvas.js](https://canvasjs.com/)
 - [Chart.js](https://www.chartjs.org/)
@@ -82,7 +100,9 @@ Hopefully this repo can serve as a source of inspiration for all the web develop
 - [Plottable.js](http://plottablejs.org/)
 - [Sigma.js](http://sigmajs.org/)
 
-### Extensions
+# Developer Resources
+
+## Extensions
 
 - CSSViewer - [Chrome](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en) - [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/cssviewer-quantum/)
 - GoFullPage - [Chrome](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) - [Firefox](https://addons.Firefox.org/en-CA/firefox/addon/fireshot/)
@@ -91,12 +111,12 @@ Hopefully this repo can serve as a source of inspiration for all the web develop
 - Web Developer - [Chrome](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en) - [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/web-developer)
 - Window Resizer - [Chrome](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=en) - [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/window-resizer-webextension/)
 
-### Time Management
+## Time Management
 
 - [WakaTime](https://wakatime.com/)
 - [RescueTime](https://www.rescuetime.com/)
 
-### Freelance Websites
+## Freelance Websites
 
 - [99Designs](https://99designs.ca/)
 - [Designhill](https://www.designhill.com/)
@@ -110,9 +130,11 @@ Hopefully this repo can serve as a source of inspiration for all the web develop
 - [Toptal](https://www.toptal.com/)
 - [Upwork](https://www.upwork.com/)
 
-### Resume Builder Website
+# Newbies
 
-- [rxresu.me](rxresu.me) 
+## Resume Builder Website
+
+- [rxresu.me](rxresu.me)
 - [canva.com](canva.com)
 - [smallcv.com](smallcv.com)
 - [resume.com](resume.com)
